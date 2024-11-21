@@ -1,0 +1,10 @@
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Update database.py with your sqllite credentials.
+
+3. Run the application:
+   uvicorn main:app --reload
+
+4. Use the Postman collection to test the API.
